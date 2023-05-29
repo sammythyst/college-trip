@@ -1,4 +1,4 @@
-# Project1 - College Trip Planner
+# College Trip Planner
 ## Contributors: 
     - Shawn Karalash
     - Eric Brooks
